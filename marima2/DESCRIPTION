@@ -1,0 +1,13 @@
+Package: marima2
+Type: Package
+Title: Multivariate ARIMA and ARIMA-X Analysis
+Version: 0.1
+Date: 2024-03-21
+Author: Peder Bacher (Henrik Spliid)
+Maintainer: Peder Bacher <pbac@dtu.dk>
+Description: Multivariate ARIMA and ARIMA-X estimation using Spliid's 
+    algorithm (marima()) and simulation (marima.sim()).
+License: GPL-2
+RoxygenNote: 7.3.1
+NeedsCompilation: no
+Packaged: 2024-04-05 04:03:20 UTC; pbac
