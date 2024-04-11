@@ -47,3 +47,4 @@ summary(fit)
 # validation of the new model
 validate(fit)
 ccfplot(fit, X)
+
